@@ -15,7 +15,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | @babel/runtime | 7.26.7-aikido.1 |
 | @babel/runtime-corejs3 | 7.25.9-aikido.1 |
 | @babel/traverse | 7.20.13-aikido.1 |
-| @backstage/backend-defaults | 0.11.1-aikido.2 |
 | @backstage/plugin-auth-backend | 0.25.7-aikido.2 |
 | @emilgroup/billing-sdk | 1.57.0-aikido.2 |
 | @emilgroup/customer-sdk | 1.54.0-aikido.2 |
@@ -49,7 +48,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | @tryghost/members-csv | 2.0.3-aikido.3 |
 | @xhmikosr/decompress | 10.2.0-aikido.1 |
 | @xmldom/xmldom | 0.9.8-aikido.2 |
-| adm-zip | 0.5.18-aikido.1 |
 | ajv | 6.5.2-aikido.2 |
 | angular | 1.8.3-aikido.5 |
 | angular-sanitize | 1.8.3-aikido.1 |
@@ -63,9 +61,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | bn.js | 5.2.1-aikido.1 |
 | body-parser | 2.2.2-aikido.1 |
 | bootstrap | 3.4.1-aikido.1 |
-| brace-expansion | 5.0.8-aikido.1 |
 | braces | 3.0.2-aikido.2 |
-| browserslist | 4.28.4-aikido.1 |
 | bson | 1.0.9-aikido.1 |
 | cacheable-request | 7.0.4-aikido.1 |
 | cookie | 0.4.2-aikido.1 |
@@ -78,7 +74,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | decode-uri-component | 0.2.0-aikido.2 |
 | decompress | 4.2.1-aikido.1 |
 | defu | 6.1.4-aikido.2 |
-| devalue | 4.3.3-aikido.1 |
 | dicer | 0.2.5-aikido.2 |
 | diff | 8.0.2-aikido.2 |
 | dns-packet | 1.3.1-aikido.1 |
@@ -91,10 +86,8 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | eslint | 9.16.0-aikido.3 |
 | eventsource | 1.0.7-aikido.1 |
 | expr-eval | 2.0.2-aikido.3 |
-| express | 4.18.2-aikido.3 |
 | express-jwt | 0.1.3-aikido.2 |
 | extract-zip | 2.0.1-aikido.1 |
-| fast-uri | 3.1.3-aikido.2 |
 | fast-xml-builder | 1.1.5-aikido.3 |
 | fast-xml-parser | 5.2.5-aikido.4 |
 | file-type | 21.1.1-aikido.1 |
@@ -116,12 +109,9 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | http-proxy-middleware | 3.0.5-aikido.2 |
 | image-size | 1.2.1-aikido.1 |
 | immer | 8.0.1-aikido.2 |
-| immutable | 5.1.7-aikido.1 |
 | ini | 1.3.5-aikido.1 |
 | ip | 2.0.1-aikido.2 |
-| ip-address | 10.2.0-aikido.2 |
 | is-svg | 3.0.0-aikido.2 |
-| joi | 17.13.3-aikido.1 |
 | js-cookie | 3.0.5-aikido.2 |
 | js-yaml | 4.1.0-aikido.6 |
 | json-schema | 0.2.3-aikido.2 |
@@ -130,9 +120,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | jsonpath | 1.1.1-aikido.1 |
 | jsonpath-plus | 7.2.0-aikido.7 |
 | jsonwebtoken | 8.5.1-aikido.5 |
-| jspdf | 2.5.2-aikido.1 |
 | jws | 4.0.0-aikido.2 |
-| knex | 0.95.15-aikido.1 |
 | koa | 2.15.4-aikido.4 |
 | langchain | 0.3.15-aikido.2 |
 | langsmith | 0.5.19-aikido.2 |
@@ -162,9 +150,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | nanoid | 3.3.16-aikido.1 |
 | next | 16.2.9-aikido.3 |
 | node-fetch | 2.6.1-aikido.2 |
-| npm | 10.9.8-aikido.1 |
 | nth-check | 2.0.0-aikido.1 |
-| nx | 23.0.0-aikido.1 |
 | openpgp | 5.10.1-aikido.2 |
 | orval | 7.13.2-aikido.1 |
 | pacote | 21.0.0-aikido.1 |
@@ -173,10 +159,8 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | pbkdf2 | 3.1.2-aikido.2 |
 | pdfjs-dist | 6.0.227-aikido.1 |
 | picomatch | 4.0.3-aikido.2 |
-| piscina | 4.9.2-aikido.1 |
 | playwright | 1.49.0-aikido.2 |
 | playwright-core | 1.49.0-aikido.2 |
-| pnpm | 10.32.1-aikido.4 |
 | postcss | 8.5.15-aikido.2 |
 | prismjs | 1.27.0-aikido.2 |
 | progressbar.js | 1.1.0-aikido.4 |
@@ -190,16 +174,12 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | react-router | 7.18.0-aikido.1 |
 | request | 2.88.2-aikido.1 |
 | rollup | 4.55.1-aikido.2 |
-| samlify | 2.10.0-aikido.1 |
 | sanitize-html | 2.17.2-aikido.2 |
 | semver | 7.5.1-aikido.1 |
 | semver-regex | 2.0.0-aikido.2 |
 | send | 0.18.0-aikido.1 |
-| serialize-javascript | 6.0.2-aikido.3 |
-| seroval | 1.5.2-aikido.1 |
 | serve-static | 1.15.0-aikido.1 |
 | sha.js | 2.4.11-aikido.2 |
-| sharp | 0.34.5-aikido.1 |
 | shell-quote | 1.8.3-aikido.3 |
 | shelljs | 0.8.4-aikido.2 |
 | showdown | 2.1.0-aikido.1 |
@@ -210,7 +190,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | ssri | 6.0.1-aikido.1 |
 | storybook | 9.1.15-aikido.1 |
 | svgo | 4.0.1-aikido.1 |
-| systeminformation | 5.23.8-aikido.5 |
 | tar | 7.4.3-aikido.12 |
 | tar-fs | 3.1.0-aikido.2 |
 | tmp | 0.2.6-aikido.1 |
@@ -222,10 +201,8 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | urllib | 3.27.3-aikido.1 |
 | uuid | 13.0.0-aikido.3 |
 | validator | 13.15.15-aikido.1 |
-| velocityjs | 2.0.6-aikido.1 |
 | vite | 8.0.14-aikido.1 |
 | vitest | 2.1.9-aikido.1 |
-| vm2 | 3.11.3-aikido.3 |
 | vuetify | 2.6.13-aikido.1 |
 | webpack | 5.82.1-aikido.1 |
 | webpack-dev-middleware | 4.3.0-aikido.2 |
