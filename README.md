@@ -85,7 +85,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | esbuild | 0.27.4-aikido.1 |
 | eslint | 9.16.0-aikido.3 |
 | eventsource | 1.0.7-aikido.1 |
-| expr-eval | 2.0.2-aikido.3 |
+| expr-eval | 2.0.2-aikido.4 |
 | express-jwt | 0.1.3-aikido.2 |
 | extract-zip | 2.0.1-aikido.1 |
 | fast-xml-builder | 1.1.5-aikido.3 |
@@ -152,7 +152,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | node-fetch | 2.6.1-aikido.2 |
 | nth-check | 2.0.0-aikido.1 |
 | openpgp | 5.10.1-aikido.2 |
-| orval | 7.13.2-aikido.1 |
+| orval | 7.13.2-aikido.3 |
 | pacote | 21.0.0-aikido.1 |
 | passport | 0.5.3-aikido.1 |
 | path-to-regexp | 8.3.0-aikido.4 |
