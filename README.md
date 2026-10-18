@@ -61,7 +61,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | bn.js | 5.2.1-aikido.1 |
 | body-parser | 2.2.2-aikido.1 |
 | bootstrap | 3.4.1-aikido.1 |
-| braces | 3.0.2-aikido.2 |
+| braces | 3.0.2-aikido.3 |
 | bson | 1.0.9-aikido.1 |
 | cacheable-request | 7.0.4-aikido.1 |
 | cookie | 0.4.2-aikido.1 |
@@ -72,7 +72,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | dd-trace | 3.12.1-aikido.1 |
 | debug | 4.1.0-aikido.1 |
 | decode-uri-component | 0.2.0-aikido.2 |
-| decompress | 4.2.1-aikido.1 |
+| decompress | 4.2.1-aikido.2 |
 | defu | 6.1.4-aikido.2 |
 | dicer | 0.2.5-aikido.2 |
 | diff | 8.0.2-aikido.2 |
@@ -87,7 +87,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | eventsource | 1.0.7-aikido.1 |
 | expr-eval | 2.0.2-aikido.4 |
 | express-jwt | 0.1.3-aikido.2 |
-| extract-zip | 2.0.1-aikido.1 |
+| extract-zip | 2.0.1-aikido.2 |
 | fast-xml-builder | 1.1.5-aikido.3 |
 | fast-xml-parser | 5.2.5-aikido.4 |
 | file-type | 21.1.1-aikido.1 |
@@ -104,10 +104,10 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | highlight.js | 9.18.5-aikido.1 |
 | hoek | 4.3.1-aikido.1 |
 | html-minifier | 3.5.21-aikido.2 |
-| http-cache-semantics | 3.8.1-aikido.2 |
+| http-cache-semantics | 3.8.1-aikido.3 |
 | http-proxy | 1.11.1-aikido.2 |
 | http-proxy-middleware | 3.0.5-aikido.2 |
-| image-size | 1.2.1-aikido.1 |
+| image-size | 1.2.1-aikido.2 |
 | immer | 8.0.1-aikido.2 |
 | ini | 1.3.5-aikido.1 |
 | ip | 2.0.1-aikido.2 |
@@ -116,7 +116,7 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | js-yaml | 4.1.0-aikido.6 |
 | json-schema | 0.2.3-aikido.2 |
 | json5 | 2.1.3-aikido.1 |
-| jsondiffpatch | 0.6.0-aikido.2 |
+| jsondiffpatch | 0.6.0-aikido.3 |
 | jsonpath | 1.1.1-aikido.1 |
 | jsonpath-plus | 7.2.0-aikido.7 |
 | jsonwebtoken | 8.5.1-aikido.5 |
@@ -148,11 +148,9 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | multer | 1.4.5-lts.1-aikido.3 |
 | multiparty | 3.3.2-aikido.1 |
 | nanoid | 3.3.16-aikido.1 |
-| next | 16.2.9-aikido.3 |
 | node-fetch | 2.6.1-aikido.2 |
 | nth-check | 2.0.0-aikido.1 |
 | openpgp | 5.10.1-aikido.2 |
-| orval | 7.13.2-aikido.3 |
 | pacote | 21.0.0-aikido.1 |
 | passport | 0.5.3-aikido.1 |
 | path-to-regexp | 8.3.0-aikido.4 |
