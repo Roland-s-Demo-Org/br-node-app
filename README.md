@@ -1,6 +1,6 @@
 # node-app
 
-Demo Node app for Aikido libraries. Every direct dependency is an Aikido build from `npm-staging.aikido.io`.
+Demo Node app for Aikido libraries. Installs come from the registry `https://npm-staging.aikido.io/1f8edf5e23989a796bf`. Direct dependencies are pinned to Aikido builds.
 
 | Package | Installed |
 | --- | --- |
