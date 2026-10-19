@@ -5,17 +5,12 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | Package | Installed |
 | --- | --- |
 | @angular/core | 20.3.25-aikido.1 |
-| @apollo/composition | 2.10.1-aikido.2 |
-| @apollo/federation-internals | 2.13.0-aikido.3 |
-| @apollo/gateway | 2.13.0-aikido.2 |
-| @apollo/query-planner | 2.13.0-aikido.2 |
 | @apollo/server | 5.0.0-aikido.6 |
 | @babel/helpers | 7.26.7-aikido.1 |
 | @babel/plugin-transform-modules-systemjs | 7.28.5-aikido.2 |
 | @babel/runtime | 7.26.7-aikido.1 |
 | @babel/runtime-corejs3 | 7.25.9-aikido.1 |
 | @babel/traverse | 7.20.13-aikido.1 |
-| @backstage/plugin-auth-backend | 0.25.7-aikido.2 |
 | @emilgroup/billing-sdk | 1.57.0-aikido.2 |
 | @emilgroup/customer-sdk | 1.54.0-aikido.2 |
 | @emilgroup/insurance-sdk | 1.98.0-aikido.3 |
@@ -34,11 +29,8 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | @octokit/plugin-paginate-rest | 6.1.2-aikido.2 |
 | @octokit/request | 6.2.8-aikido.3 |
 | @octokit/request-error | 3.0.3-aikido.2 |
-| @opentelemetry/auto-instrumentations-node | 0.74.0-aikido.3 |
 | @opentelemetry/core | 2.7.1-aikido.1 |
-| @opentelemetry/exporter-prometheus | 0.216.0-aikido.3 |
 | @opentelemetry/propagator-jaeger | 2.8.0-aikido.1 |
-| @opentelemetry/sdk-node | 0.216.0-aikido.3 |
 | @protobufjs/utf8 | 1.1.0-aikido.1 |
 | @remix-run/router | 1.16.1-aikido.1 |
 | @sentry/browser | 5.30.0-aikido.1 |
@@ -53,7 +45,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | angular-sanitize | 1.8.3-aikido.1 |
 | ansi-html | 0.0.7-aikido.1 |
 | ansi-regex | 5.0.0-aikido.1 |
-| apollo-server-core | 3.13.0-aikido.2 |
 | async | 2.6.3-aikido.1 |
 | babel-traverse | 6.26.0-aikido.2 |
 | base64url | 0.0.6-aikido.3 |
