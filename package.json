@@ -59,7 +59,7 @@
     "cookie": "0.4.2-aikido.1",
     "cors-anywhere": "0.4.4-aikido.1",
     "cross-spawn": "7.0.3-aikido.2",
-    "crypto-js": "3.3.0-aikido.4",
+    "crypto-js": "3.3.0",
     "css-what": "5.0.0-aikido.1",
     "dd-trace": "3.12.1-aikido.1",
     "debug": "4.1.0-aikido.1",
