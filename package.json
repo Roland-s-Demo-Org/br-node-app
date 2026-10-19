@@ -70,7 +70,6 @@
     "bn.js": "5.2.1-aikido.1",
     "body-parser": "2.2.2-aikido.1",
     "bootstrap": "3.4.1-aikido.1",
-    "braces": "3.0.2-aikido.3",
     "bson": "1.0.9-aikido.1",
     "cacheable-request": "7.0.4-aikido.1",
     "cookie": "0.4.2-aikido.1",
@@ -227,7 +226,6 @@
   "overrides": {
     "base64url@0.0.6": "0.0.6-aikido.3",
     "body-parser@1.20.1": "1.20.1-aikido.3",
-    "braces@3.0.3": "3.0.2-aikido.3",
     "debug@2.2.0": "2.2.0-aikido.1",
     "decompress@4.2.1": "4.2.1-aikido.2",
     "@apollo/federation-internals@2.13.0": "2.13.0-aikido.3",
@@ -314,18 +312,6 @@
     },
     "@apollo/query-graphs@2.13.0": {
       "@apollo/federation-internals": "2.13.0-aikido.3"
-    },
-    "webpack-dev-server": {
-      ".": "5.2.4-aikido.2",
-      "braces": "3.0.2-aikido.3"
-    },
-    "http-proxy-middleware": {
-      ".": "3.0.5-aikido.2",
-      "braces": "3.0.2-aikido.3"
-    },
-    "micromatch": {
-      ".": "4.0.4-aikido.1",
-      "braces": "3.0.2-aikido.3"
     },
     "request": {
       ".": "2.88.2-aikido.1",

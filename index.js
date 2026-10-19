@@ -59,7 +59,6 @@ const libraries = [
   "bn.js",
   "body-parser",
   "bootstrap",
-  "braces",
   "bson",
   "cacheable-request",
   "cookie",

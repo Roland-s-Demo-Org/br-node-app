@@ -61,7 +61,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | bn.js | 5.2.1-aikido.1 |
 | body-parser | 2.2.2-aikido.1 |
 | bootstrap | 3.4.1-aikido.1 |
-| braces | 3.0.2-aikido.3 |
 | bson | 1.0.9-aikido.1 |
 | cacheable-request | 7.0.4-aikido.1 |
 | cookie | 0.4.2-aikido.1 |
