@@ -4,7 +4,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 
 | Package | Installed |
 | --- | --- |
-| @angular/core | 20.3.25-aikido.1 |
 | @apollo/server | 5.0.0-aikido.6 |
 | @babel/helpers | 7.26.7-aikido.1 |
 | @babel/plugin-transform-modules-systemjs | 7.28.5-aikido.2 |
@@ -14,16 +13,12 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | @emilgroup/billing-sdk | 1.57.0-aikido.2 |
 | @emilgroup/customer-sdk | 1.54.0-aikido.2 |
 | @emilgroup/insurance-sdk | 1.98.0-aikido.3 |
-| @fastify/busboy | 3.2.0-aikido.1 |
-| @grpc/grpc-js | 1.14.3-aikido.1 |
 | @hapi/content | 6.0.1-aikido.1 |
 | @hapi/inert | 7.1.0-aikido.1 |
 | @hapi/wreck | 18.1.0-aikido.2 |
 | @isaacs/brace-expansion | 5.0.0-aikido.2 |
 | @langchain/community | 1.1.14-aikido.2 |
 | @langchain/core | 0.3.57-aikido.3 |
-| @modelcontextprotocol/inspector | 0.4.1-aikido.3 |
-| @modelcontextprotocol/sdk | 1.20.1-aikido.2 |
 | @nestjs/common | 10.3.8-aikido.3 |
 | @nestjs/core | 11.1.9-aikido.1 |
 | @octokit/plugin-paginate-rest | 6.1.2-aikido.2 |
@@ -38,8 +33,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | @sigstore/verify | 3.1.0-aikido.1 |
 | @tootallnate/once | 2.0.1-aikido.2 |
 | @tryghost/members-csv | 2.0.3-aikido.3 |
-| @xhmikosr/decompress | 10.2.0-aikido.1 |
-| @xmldom/xmldom | 0.9.8-aikido.2 |
 | ajv | 6.5.2-aikido.2 |
 | angular | 1.8.3-aikido.5 |
 | angular-sanitize | 1.8.3-aikido.1 |
@@ -76,7 +69,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | eslint | 9.16.0-aikido.3 |
 | eventsource | 1.0.7-aikido.1 |
 | expr-eval | 2.0.2-aikido.4 |
-| express-jwt | 0.1.3-aikido.2 |
 | extract-zip | 2.0.1-aikido.2 |
 | fast-xml-builder | 1.1.5-aikido.3 |
 | fast-xml-parser | 5.2.5-aikido.4 |
@@ -153,8 +145,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | prismjs | 1.27.0-aikido.2 |
 | progressbar.js | 1.1.0-aikido.4 |
 | protobufjs | 8.0.1-aikido.9 |
-| pug | 2.0.4-aikido.2 |
-| pug-code-gen | 2.0.2-aikido.1 |
 | qs | 6.15.1-aikido.1 |
 | react-leaflet-heatmap-layer | 2.0.0-aikido.2 |
 | react-native-document-picker | 9.0.1-aikido.1 |
@@ -186,7 +176,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | trim-newlines | 1.0.0-aikido.2 |
 | typeorm | 0.3.28-aikido.1 |
 | underscore | 1.13.6-aikido.1 |
-| urllib | 3.27.3-aikido.1 |
 | uuid | 13.0.0-aikido.3 |
 | validator | 13.15.15-aikido.1 |
 | vite | 8.0.14-aikido.1 |
