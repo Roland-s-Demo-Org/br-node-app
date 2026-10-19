@@ -88,7 +88,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | html-minifier | 3.5.21-aikido.2 |
 | http-cache-semantics | 3.8.1-aikido.3 |
 | http-proxy | 1.11.1-aikido.2 |
-| http-proxy-middleware | 3.0.5-aikido.2 |
 | image-size | 1.2.1-aikido.2 |
 | immer | 8.0.1-aikido.2 |
 | ini | 1.3.5-aikido.1 |
@@ -120,7 +119,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | marked | 4.0.9-aikido.1 |
 | merge | 1.2.1-aikido.2 |
 | merge-deep | 3.0.2-aikido.1 |
-| micromatch | 4.0.4-aikido.1 |
 | mime | 1.3.4-aikido.1 |
 | minimatch | 10.2.2-aikido.2 |
 | minimist | 1.2.5-aikido.2 |
@@ -183,7 +181,6 @@ Demo Node app for Aikido libraries. Installs come from the registry `https://npm
 | vuetify | 2.6.13-aikido.1 |
 | webpack | 5.82.1-aikido.1 |
 | webpack-dev-middleware | 4.3.0-aikido.2 |
-| webpack-dev-server | 5.2.4-aikido.2 |
 | websocket-driver | 0.7.4-aikido.1 |
 | word-wrap | 1.2.3-aikido.2 |
 | ws | 8.17.1-aikido.3 |
